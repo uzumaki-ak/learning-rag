@@ -1,5 +1,4 @@
-# RAG Document Query System 🔍
-Made my first Retrieval Augmented Generation (RAG) system that allows you to query your documents using semantic search and AI-powered responses.
+ 
 
 ## Features
 
